@@ -40,8 +40,8 @@ Each of those pages links back here and to each other. You can open them on GitH
 ## Adding a New Page
 
 1. Create a new file ending in `.md`, for example `gallery.md`.
-2. Start it with a heading: `# Gallery`.
-3. Link to it from this README: `[Gallery](gallery.md)`.
+2. Start it with a heading: `# Introduction`.
+3. Link to it from this README: `[Introduction](introduction.md)`.
 4. Commit and push. The new page appears on the site after the next build.
 
 ## Troubleshooting
