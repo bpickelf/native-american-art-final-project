@@ -4,7 +4,7 @@ This repository is a template for publishing a Python project as a website using
 
 Everything here is plain Markdown. GitHub pages renders markdown as HTML so it is viewable in the browser.
 
-## Pages in This Site
+## Pages in This Site EDIT
 
 This home page links to two other Markdown files in the repo. Click them to see linking in action:
 
